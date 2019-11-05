@@ -1,4 +1,4 @@
-# SimpleMenuC
-This is a simple menu using conio2.
+# SimpleInterfaceC
 
-It's really simple menu in C, using Conio2.
+It's really simple interface in C, using Conio2.
+In this interface you can fulfill and print some data. Beside that, there is a queue and pile implemented.
