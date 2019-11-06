@@ -324,7 +324,7 @@ int main()
    				printf ("\nRGA:");
 				scanf ("%s",&rga);
 	
-				printf ("\nEndereÁo: ");
+				printf ("\nEndere√ßo: ");
 				scanf ("%s",&end);
 	
 				printf ("\nE-mail:");
@@ -333,7 +333,7 @@ int main()
 				printf ("\nNome do pai: ");
 				scanf ("%s",&np);
 	
-				printf ("\nNome da m„e:");
+				printf ("\nNome da m√£e:");
 				scanf ("%s",&nm);
 	
 				printf ("\nCelular: ");
@@ -362,10 +362,10 @@ int main()
 					printf("\n");
 					printf ("Nome completo: %s\n",nc);
 					printf ("RGA: %s\n",rga);
-					printf ("EndereÁo: %s\n",end);
+					printf ("Endere√ßo: %s\n",end);
 					printf ("E-mail: %s\n",em);
 					printf ("Nome do pai: %s\n",np);
-					printf ("Nome da m„e: %s\n",nm);
+					printf ("Nome da m√£e: %s\n",nm);
 					printf ("Celular: %s\n",cel);
 					printf ("Data de nascimento: %s\n",dn);
 					printf ("Cidade: %s\n",cid);
